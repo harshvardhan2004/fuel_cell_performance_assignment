@@ -4,7 +4,7 @@
 
 
 The primary goal of this project is to evaluate multiple regression models to predict the Target2 variable based on feature columns (F1 to F15).
-The dataset was split into a 70/30 ratio for training and testing purposes, and four different regression models were applied:
+The dataset was split into a 70/30 ratio for training and testing purposes, and six different regression models were applied:
 
 1.Linear Regression
 2.Random Forest Regressor
